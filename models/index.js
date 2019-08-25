@@ -23,6 +23,7 @@ module.exports = {
   ExportFormat: require('./ExportFormat'),
   ExportOptions: require('./ExportOptions'),
   Fill: require('./Fill'),
+  GraphicsContextSettings: require('./GraphicsContextSettings'),
   Gradient: require('./Gradient'),
   Meta: require('./Meta'),
   Oval: require('./Oval'),
